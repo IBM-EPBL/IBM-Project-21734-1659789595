@@ -1,0 +1,20 @@
+table{
+	margin-top: 50px;
+	text-align: center;
+	background: #7227be;
+	color: rgb(12, 10, 10);
+    border-radius: 0px;
+	border-spacing: 5px;
+}
+
+#show th, #show td{
+	padding: 5px;
+}
+
+#btna td input{
+	width: 100%;
+
+}
+h1{
+    text-align: center;
+}
